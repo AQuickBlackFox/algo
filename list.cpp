@@ -1,6 +1,7 @@
 /*
 g++ -std=c++11 list.cpp -o list
 */
+
 #include<iostream>
 #include<cassert>
 
